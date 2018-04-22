@@ -1,0 +1,8 @@
+{
+    "database":{
+    "data_set": "test_dataset",
+    "table_name": "test_table"},
+    "cohort":{"week":7,
+    "month": 30
+    }
+}
