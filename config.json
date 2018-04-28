@@ -1,8 +1,9 @@
 {
-    "database":{
-    "data_set": "test_dataset",
-    "table_name": "test_table"},
-    "cohort":{"week":7,
-    "month": 30
+    "database": {
+        "source_data_set": "test_dataset",
+        "source_table_name": "test_table",
+        "destination_dataset": "dest",
+        "destination_table": "destination_table"
     }
+
 }
